@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am a learning enthusiast. I like to set goals new years style, like "just learn all the parts of coding that interest me". Pretty sure I'm stuck with that one forever.
+I am a knowledge enthusiast and I see coding as an artform. 
 
 #### ~ Vectors of Attack ~
 
 ## Teaching
-I really enjoy teaching and writing courses. Check out my intro course to JS [here](https://l1lith.github.io/Intro-Coding-Concepts/)
+I really enjoy teaching and writing courses. Check out my intro course to JS [here](https://yourfirstrpg.com) and learn how to make your own RPG today.
 
 ## Software Development 
 I'm really passionate about expanding my capabilities as a programmer, and Javascript has been a great tool for that. I am constantly developing open source software in hopes that it can both accelerate the development process for myself and others.
