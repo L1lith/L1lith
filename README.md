@@ -2,7 +2,7 @@
 
 I am a knowledge enthusiast and I see coding as an artform. 
 
-#### ~ Vectors of Attack ~
+#### ~ Vectors of Approach ~
 
 ## Teaching
 I really enjoy teaching and writing courses. Check out my intro course to JS [here](https://yourfirstrpg.com) and learn how to make your own RPG today.
