@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-I am a knowledge enthusiast and I see coding as an artform. 
+I love learning and I see coding as an artform. I enjoy coming up with lots of ideas and designing them.
 
 #### ~ Vectors of Approach ~
 
@@ -13,7 +12,7 @@ I'm really passionate about expanding my capabilities as a programmer, and Javas
 If you'd like to see my most mature JS library please check out [Sandhands](https://github.com/L1lith/Sandhands) 😊
  
  ## Game Design
- It's hard to not hum along to the old zelda soundtracks. I feel like gaming has become so industrialized we forget to treat it as an art form. Currently I'm reading "Power-Up: How Japanese Video Games Gave the World an Extra Life", learning about how Japanese people revolutionized gaming.
+ It's hard to not hum along to the old zelda soundtracks. I feel like gaming has become so industrialized we forget to treat it as an art form. I enjoyed reading "Power-Up: How Japanese Video Games Gave the World an Extra Life" and learning about how Japanese people revolutionized gaming.
 
 ## Web Development
 I love seeing the many layers of modern software design, and staying with the cutting edge. In the past I have enjoyed developing isomorphic apps built with React. Lately I've been working with Gatsby, but I'm always interested in new frameworks.
