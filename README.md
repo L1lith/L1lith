@@ -3,7 +3,7 @@ I love learning and I see coding as an artform.
 
 ## ~ Let's help the ecosystem ~
 No one is an island. If you'd like to support me, please help one of these causes:
-- [Let's defend worker's rights in the gaming](https://www.gofundme.com/f/abk-strike-fund)
+- [Let's defend worker's rights in gaming](https://www.gofundme.com/f/abk-strike-fund)
 - [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
 - [Let's protect the environment](https://citizensclimatelobby.org/)
 - [Let's pass Right to Repair](https://www.gofundme.com/f/lets-get-right-to-repair-passed)
