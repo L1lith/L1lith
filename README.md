@@ -8,10 +8,7 @@ No one is an island. If you'd like to support me, please help one of these cause
 - [Let's protect the environment](https://citizensclimatelobby.org/)
 - [Let's pass Right to Repair](https://www.gofundme.com/f/lets-get-right-to-repair-passed)
 - [Let's save young LGBTQ+ lives](https://www.thetrevorproject.org/)
-- [Let's help animals](http://www.americanhumane.org/)
-- [Let's reform criminal justice](https://innocenceproject.org/)
-- [Let's cure cancer](https://www.cancerresearch.org/)
-- [Let's stop violence against Asians and Pacific Islanders](https://www.gofundme.com/f/support-aapi-community-fund)
+- Let's do more: [GiveWell](https://secure.givewell.org/) [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to])
 
 ## Vectors of Approach
 
