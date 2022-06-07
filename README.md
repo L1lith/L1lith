@@ -8,7 +8,7 @@ No one is an island. If you'd like to support me, please help one of these cause
 - [Let's protect the environment](https://citizensclimatelobby.org/)
 - [Let's pass Right to Repair](https://www.gofundme.com/f/lets-get-right-to-repair-passed)
 - [Let's save young LGBTQ+ lives](https://www.thetrevorproject.org/)
-- Let's do more: [GiveWell](https://secure.givewell.org/) [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to])
+- Let's do more: [GiveWell](https://secure.givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to])
 
 ## Vectors of Approach
 
