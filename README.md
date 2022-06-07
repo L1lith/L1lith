@@ -1,6 +1,18 @@
 ### Hi there 👋
 I love learning and I see coding as an artform. I enjoy coming up with lots of ideas and designing them.
 
+## Let's help the ecosystem
+No one is an island. If you'd like to support me, please help one of these causes:
+- [Let's defend worker's rights in the gaming](https://www.gofundme.com/f/abk-strike-fund)
+- [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
+- [Let's protect the environment](https://citizensclimatelobby.org/)
+- [Let's pass Right to Repair](https://www.gofundme.com/f/lets-get-right-to-repair-passed)
+- [Let's save young LGBTQ+ lives](https://www.thetrevorproject.org/)
+- [Let's help animals](https://www.thetrevorproject.org/)
+- [Let's reform criminal justice](https://innocenceproject.org/)
+- [Let's cure cancer](https://www.cancerresearch.org/)
+- [Let's stop violence against Asians and Pacific Islanders](https://www.gofundme.com/f/support-aapi-community-fund)
+
 ## ~ Vectors of Approach ~
 
 ### Teaching
@@ -17,15 +29,3 @@ I love seeing the many layers of modern software design, and exploring the cutti
 
 ### Security
 I enjoy making things safe, so I study cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda.
-
-## Let's help the ecosystem
-No one is an island. If you'd like to support me, please help one of these causes:
-- [Let's defend worker's rights in the gaming](https://www.gofundme.com/f/abk-strike-fund)
-- [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
-- [Let's protect the environment](https://citizensclimatelobby.org/)
-- [Let's pass Right to Repair](https://www.gofundme.com/f/lets-get-right-to-repair-passed)
-- [Let's save young LGBTQ+ lives](https://www.thetrevorproject.org/)
-- [Let's help animals](https://www.thetrevorproject.org/)
-- [Let's reform criminal justice](https://innocenceproject.org/)
-- [Let's cure cancer](https://www.cancerresearch.org/)
-- [Let's stop violence against Asians and Pacific Islanders](https://www.gofundme.com/f/support-aapi-community-fund)
