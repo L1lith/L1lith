@@ -1,7 +1,7 @@
 ### Hi there 👋
 I love learning and I see coding as an artform.
 
-## ~ Let's help the ecosystem ~
+## ~ Let's support each other ~
 No one is an island. If you'd like to support me, please help one of these causes:
 - [Let's defend worker's rights in gaming](https://www.gofundme.com/f/abk-strike-fund)
 - [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
