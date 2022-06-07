@@ -1,7 +1,7 @@
 ### Hi there 👋
-I love learning and I see coding as an artform. I enjoy coming up with lots of ideas and designing them.
+I love learning and I see coding as an artform.
 
-## Let's help the ecosystem
+## ~ Let's help the ecosystem ~
 No one is an island. If you'd like to support me, please help one of these causes:
 - [Let's defend worker's rights in the gaming](https://www.gofundme.com/f/abk-strike-fund)
 - [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
@@ -13,7 +13,7 @@ No one is an island. If you'd like to support me, please help one of these cause
 - [Let's cure cancer](https://www.cancerresearch.org/)
 - [Let's stop violence against Asians and Pacific Islanders](https://www.gofundme.com/f/support-aapi-community-fund)
 
-## ~ Vectors of Approach ~
+## Vectors of Approach
 
 ### Teaching
 Learning to teach enables me to share my knowledge, and help me consolidate my understanding of code. If you would like to learn JavaScript, feel free to check out [Your First RPG](https://yourfirstrpg.com), a course I'm currently working on.
