@@ -22,7 +22,7 @@ I love learning and I see coding as an artform.
 • Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to])
 </details>
 
-## Vectors of Approach
+## Areas I've explored
 
 ### Teaching
 Learning to teach enables me to share my knowledge, and help me consolidate my understanding of code. If you would like to learn JavaScript, feel free to check out [Your First RPG](https://yourfirstrpg.com), a course I'm currently working on.
