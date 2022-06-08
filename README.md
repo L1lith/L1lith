@@ -2,14 +2,25 @@
 I love learning and I see coding as an artform.
 
 ## ~ Let's support each other ~
-No one is an island. If you'd like to support me, please help one of these causes:
-- [Let's defend worker's rights in gaming](https://www.gofundme.com/f/abk-strike-fund)
-- [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
-- [Let's protect the environment](https://citizensclimatelobby.org/)
-- [Let's pass Right to Repair](https://www.gofundme.com/f/lets-get-right-to-repair-passed)
-- [Let's save young LGBTQ+ lives](https://www.thetrevorproject.org/)
-- [Let's stop gun violence in America](https://www.csgv.org/)
-- Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to])
+<details>
+  <summary>No one is an island, click here to show your support</summary>
+ 
+ ### What can we do?
+ 
+• [Let's defend worker's rights in gaming](https://www.gofundme.com/f/abk-strike-fund)
+ 
+• [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
+ 
+• [Let's protect the environment](https://citizensclimatelobby.org/)
+ 
+• [Let's pass Right to Repair](https://www.gofundme.com/f/lets-get-right-to-repair-passed)
+ 
+• [Let's save LGBTQ+ lives](https://www.thetrevorproject.org/)
+ 
+• [Let's stop gun violence in America](https://www.csgv.org/)
+ 
+• Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to])
+</details>
 
 ## Vectors of Approach
 
