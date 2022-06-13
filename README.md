@@ -29,7 +29,7 @@ I enjoy making things safe, so I study cyber security to better understand the s
 - [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
 
 - [Let's protect the environment](https://citizensclimatelobby.org/)
-- [Let's pass Right to Repair](https://www.gofundme.com/f/lets-get-right-to-repair-passed)
+- [Let's pass Right to Repair](https://fighttorepair.org/donate/)
 - [Let's save LGBTQ+ lives](https://www.thetrevorproject.org/)
 - [Let's stop gun violence in America](https://www.csgv.org/)
 - Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to])
