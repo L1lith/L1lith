@@ -24,10 +24,11 @@ I enjoy making things safe, so I study cyber security to better understand the s
   <summary>No one is an island, click here to show your support</summary>
  
  ### What can we do?
- 
-- [Let's defend worker's rights in gaming](https://www.gofundme.com/f/abk-strike-fund)
-- [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
 
+- [Let's rebuild Native Communities](https://www.firstnations.org/fndi_donate/)
+- [Let's defend worker's rights in gaming](https://www.gofundme.com/f/abk-strike-fund)
+- [Let's support Ukraine](https://github.com/L1lith/L1lith/blob/main/README.md)
+- [Let's aid Afghanistan](https://www.unicef.org/emergencies/delivering-support-afghanistans-children)
 - [Let's protect the environment](https://citizensclimatelobby.org/)
 - [Let's pass Right to Repair](https://fighttorepair.org/donate/)
 - [Let's save LGBTQ+ lives](https://www.thetrevorproject.org/)
