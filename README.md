@@ -33,5 +33,5 @@ I enjoy making things safe, so I study cyber security to better understand the s
 - [Let's pass Right to Repair](https://fighttorepair.org/donate/)
 - [Let's save LGBTQ+ lives](https://www.thetrevorproject.org/)
 - [Let's stop gun violence in America](https://www.csgv.org/)
-- Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to])
+- Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to]), [Charity Navigator](https://www.charitynavigator.org/)
 </details>
