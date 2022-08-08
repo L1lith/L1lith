@@ -34,4 +34,6 @@ I enjoy making things safe, so I study cyber security to better understand the s
 - [Let's save LGBTQ+ lives](https://www.thetrevorproject.org/)
 - [Let's stop gun violence in America](https://www.csgv.org/)
 - Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to]), [Charity Navigator](https://www.charitynavigator.org/)
+
+[Read more about the issues I care about here](https://webslc.com/musings/important-issues/)
 </details>
