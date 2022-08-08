@@ -1,5 +1,5 @@
 # Nice to meet you
- I enjoy eurika moments, and working on projects. 
+I enjoy eurika moments, working on projects. To know more about me check out [my website](https://webslc.com).
 
 ## Areas I've explored
 
