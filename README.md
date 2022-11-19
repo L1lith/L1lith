@@ -19,7 +19,7 @@ I love seeing the many layers of modern software design, and exploring the cutti
 I enjoy making things safe, so I study cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda.
 
 
-## ❤️ Let's support each other
+## Donations
 <details>
   <summary>No one is an island, click here to show your support</summary>
  
