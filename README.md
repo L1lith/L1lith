@@ -1,5 +1,5 @@
 # Nice to meet you
-I enjoy eurika moments, working on projects. To know more about me check out [my website](https://webslc.com).
+I love making art. To know more about me check out [my website](https://webslc.com). I also have [Patreon](https://www.patreon.com/Purp1) and [Instagram](https://www.instagram.com/oslilith/) where you can find AI artwork and more.
 
 ## Areas I've explored
 
