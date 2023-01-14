@@ -15,7 +15,7 @@ I'm really passionate about expanding my capabilities as a programmer, and Javas
 I also redid the website for the amazing open source game engine [melonJS](https://melonjs.org)
 
 ### Web Development
-I love seeing the many layers of modern software design, and exploring the cutting edge. I've worked with a lot of tools, but [Solid.js](https://www.solidjs.com/) and [Astro](https://astro.build/) to me are simply unmatched for lightning fast web pages.
+I love seeing the many layers of modern software design, and exploring the cutting edge. I've worked with a lot of tools, but [Solid.js](https://www.solidjs.com/) and [Astro](https://astro.build/) to me are simply unmatched for convienent development and lightning fast web pages.
 
 ### Security
 I enjoy making things safe, so I study cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda.
