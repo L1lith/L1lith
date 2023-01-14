@@ -28,7 +28,6 @@ If you'd like to support me financially consider [subscribing to my Patreon](htt
  
  ### What can we do?
 
-- [Let's support America's oldest aviary](https://tracyaviary.org/donate)
 - [Let's empower Native Communities](https://www.firstnations.org/fndi_donate/)
 - [Let's defend worker's rights in gaming](https://www.gofundme.com/f/abk-strike-fund)
 - [Let's support Ukraine](https://github.com/L1lith/L1lith/blob/main/README.md)
