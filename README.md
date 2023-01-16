@@ -1,10 +1,12 @@
 # Nice to meet you
-I love making art. To know more about me check out [my website](https://webslc.com). I also have [Patreon](https://www.patreon.com/Purp1) and [Instagram](https://www.instagram.com/oslilith/) where you can find AI artwork and more.
+To know more about me check out [my website](https://webslc.com).
 
 ## Areas I've explored
 
 ### Artificial Intelligence
-Recently I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AI:
+I love making art. I also have [Patreon](https://www.patreon.com/Purp1) and [Instagram](https://www.instagram.com/oslilith/) where you can find AI artwork and more.
+
+I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AI:
 - ChatGPT (this ai can have conversations with you and help you figure out how to do things)
 - Midjourney (this ai can convert text into images)
 - Topaz Gemscale (it's a very simple image upscaling tool)
