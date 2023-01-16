@@ -3,6 +3,14 @@ I love making art. To know more about me check out [my website](https://webslc.c
 
 ## Areas I've explored
 
+### Artificial Intelligence
+Recently I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AI:
+- ChatGPT (this ai can have conversations with you and help you figure out how to do things)
+- Midjourney (this ai can convert text into images)
+- Topaz Gemscale (it's a very simple image upscaling tool)
+
+I would be open to prompt engineering roles, but only if I felt passionately about the project.
+
 ### Teaching
 Learning to teach enables me to share my knowledge, and help me consolidate my understanding of code. If you would like to learn JavaScript, feel free to check out [Your First RPG](https://yourfirstrpg.com), a course I'm currently working on.
 
