@@ -2,7 +2,7 @@
 Want to see what it could look like for the Salt Lake valley?
 
 Check it out on my Instagram:
--[Click here for best case scenario](https://www.instagram.com/p/CnaLHDYyPqa/)
+- [Click here for best case scenario](https://www.instagram.com/p/CnaLHDYyPqa/)
 - [Click here for worst case scenario](https://www.instagram.com/p/Cnd4xRYOiI8/)
 
 Check it out on my Patreon (free): 
