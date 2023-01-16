@@ -1,4 +1,17 @@
-# Nice to meet you
+# The Great Salt Lake is experiencing an ecological crisis
+Want to see what it could look like for the Salt Lake valley?
+
+Check it out on my Instagram:
+[Click here for best case scenario](https://www.instagram.com/p/CnaLHDYyPqa/)
+[Click here for worst case scenario](https://www.instagram.com/p/Cnd4xRYOiI8/)
+
+Check it out on my Patreon (free): 
+[Click here for best case scenario](https://www.patreon.com/posts/greening-urban-77273609)
+[Click here for worst case scenario](https://www.patreon.com/posts/what-lake-will-77300376)
+
+[--> See here for my plan on how to fix it.](https://webslc.com/notebook/plans-to-save-the-lake/)
+
+# I'm Lily
 To know more about me check out [my website](https://webslc.com).
 
 ## Areas I've explored
