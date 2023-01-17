@@ -1,5 +1,5 @@
 # The Great Salt Lake is experiencing an ecological crisis
-Want to see what it could look like for the Salt Lake valley?
+The Great Salt Lake is the largest salt lake in the Western Hemisphere, and it's disappearing and releasing a cloud of toxic dust. Want to see what it could look like for the Salt Lake valley?
 
 Check it out on my Instagram:
 - [Click here for best case scenario](https://www.instagram.com/p/CnaLHDYyPqa/)
