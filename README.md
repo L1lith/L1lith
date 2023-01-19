@@ -2,6 +2,7 @@
 The Great Salt Lake is the largest salt lake in the Western Hemisphere, and it's disappearing and releasing a cloud of toxic dust. Want to see what it could look like for the Salt Lake valley?
 
 [--> Have a conversation with the AI I made to help save the Great Salt Lake](https://github.com/L1lith/Lilys-Insane-Prompts#great-salt-lake-preservation-ai)
+
 [--> See here for my plan on how to fix it.](https://webslc.com/notebook/plans-to-save-the-lake/)
 
 Visualize it out on my Instagram:
