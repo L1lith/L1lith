@@ -1,18 +1,3 @@
-# The Great Salt Lake is experiencing an ecological crisis
-The Great Salt Lake is the largest salt lake in the Western Hemisphere, and it's disappearing and releasing a cloud of toxic dust. Want to see what it could look like for the Salt Lake valley?
-
-[--> Have a conversation with the AI I made to help save the Great Salt Lake](https://github.com/L1lith/Save-the-Great-Salt-Lake-Game)
-
-[--> See here for my plan on how to fix it.](https://webslc.com/notebook/plans-to-save-the-lake/)
-
-Visualize it out on my Instagram:
-- [Click here for best case scenario](https://www.instagram.com/p/CnaLHDYyPqa/)
-- [Click here for worst case scenario](https://www.instagram.com/p/Cnd4xRYOiI8/)
-
-Visualize it out on my Patreon (free): 
-- [Click here for best case scenario](https://www.patreon.com/posts/greening-urban-77273609)
-- [Click here for worst case scenario](https://www.patreon.com/posts/what-lake-will-77300376)
-
 # I'm Lily
 To know more about me check out [my website](https://webslc.com).
 
