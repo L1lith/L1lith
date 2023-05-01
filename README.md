@@ -3,16 +3,6 @@ To know more about me check out [my website](https://webslc.com).
 
 ## Areas I've explored
 
-### Artificial Intelligence
-I love making art. I also have [Patreon](https://www.patreon.com/Purp1) and [Instagram](https://www.instagram.com/oslilith/) where you can find AI artwork and more.
-
-I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AI:
-- ChatGPT (this ai can have conversations with you and help you figure out how to do things)
-- Midjourney (this ai can convert text into images)
-- Topaz Gemscale (it's a very simple image upscaling tool)
-
-I would be open to prompt engineering roles, but only if I felt passionately about the project.
-
 ### Teaching
 Learning to teach enables me to share my knowledge, and help me consolidate my understanding of code. If you would like to learn JavaScript, feel free to check out [Your First RPG](https://yourfirstrpg.com), a course I'm currently working on.
 
@@ -30,6 +20,14 @@ I love seeing the many layers of modern software design, and exploring the cutti
 ### Security
 I enjoy making things safe, so I study cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda.
 
+### Artificial Intelligence
+I love making art. I also have [Patreon](https://www.patreon.com/Purp1) and [Instagram](https://www.instagram.com/oslilith/) where you can find AI artwork and more.
+
+I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AI:
+- ChatGPT (this ai can have conversations with you and help you figure out how to do things)
+- Midjourney (this ai can convert text into images)
+
+I would be open to prompt engineering roles, but only if I felt passionately about the project.
 
 ## Support
 If you'd like to support me financially consider [subscribing to my Patreon](https://www.patreon.com/Purp1)
