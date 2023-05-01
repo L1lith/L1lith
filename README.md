@@ -1,6 +1,4 @@
 # I'm Lily
-To know more about me check out [my website](https://webslc.com).
-
 ## Areas I've explored
 
 ### Teaching
