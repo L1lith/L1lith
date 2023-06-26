@@ -42,5 +42,5 @@ If you'd like to support me financially consider [subscribing to my Patreon](htt
 - [Let's pass Right to Repair](https://fighttorepair.org/donate/)
 - [Let's protect LGBTQ+ lives](https://www.thetrevorproject.org/)
 - [Let's stop gun violence in America](https://www.csgv.org/)
-- Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to]), [Charity Navigator](https://www.charitynavigator.org/)
+- Let's do more: [GiveWell](https://givewell.org/), [GoFundMe](https://www.gofundme.com/c/blog/best-charities-to-donate-to), [Charity Navigator](https://www.charitynavigator.org/)
 </details>
