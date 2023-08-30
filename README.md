@@ -19,7 +19,7 @@ I love seeing the many layers of modern software design, and exploring the cutti
 I enjoy making things safe, so I study cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda.
 
 ### Artificial Intelligence
-I love making art. I also have [Patreon](https://www.patreon.com/Purp1) and [Instagram](https://www.instagram.com/oslilith/) where you can find AI artwork and more.
+I love making art. I also have an [Instagram](https://www.instagram.com/oslilith/) where you can find AI artwork and more.
 
 I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AI:
 - ChatGPT (this ai can have conversations with you and help you figure out how to do things)
