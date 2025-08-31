@@ -19,11 +19,9 @@ I love seeing the many layers of modern software design, and exploring the cutti
 I enjoy making things safe, so I study cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda.
 
 ### Artificial Intelligence
-I love making art. I also have an [Instagram](https://www.instagram.com/oslilith/) where you can find AI artwork and more.
-
-I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AI:
-- ChatGPT (this ai can have conversations with you and help you figure out how to do things)
-- Midjourney (this ai can convert text into images)
+I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AIs:
+- Various LLMs (I talk with them to help me solve problems, I now use my Lili's LLM Chat program in order to use more eco-friendly AIs)
+- Midjourney (in tandem with procedural generation approaches, however I am not using it at the moment for environmental reasons)
 
 I would be open to prompt engineering roles, but only if I felt passionately about the project.
 
