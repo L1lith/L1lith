@@ -15,6 +15,7 @@ I'm really passionate about expanding my capabilities as a programmer, and Javas
 
 <details>
   <summary>Other Areas</summary>
+
 ### 🌐 Web Development
 I love seeing the many layers of modern software design, and exploring the cutting edge. I've worked with a lot of tools, but [Solid.js](https://www.solidjs.com/) and [Astro](https://astro.build/) to me are simply unmatched for convienent development and lightning fast web pages.
 
