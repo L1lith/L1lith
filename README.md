@@ -1,4 +1,4 @@
-# I'm Lili
+# I'm Lili 💜
 I've been programming since around 2009 or 2010, when I taught myself to code as a child. I'm also a visual artist who has exhibitioned multiple times at the [Urban Arts Gallery](https://www.urbanartsgallery.org/), and I'm an activist who is against colonial governments and for giving the land back to it's indigenous caretakers. To learn more about me [visit my website](https://webslc.com) or [view my art portfolio](https://webslc.com/art).
 
 ## 🗺️ Areas of Emphasis
