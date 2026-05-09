@@ -1,32 +1,29 @@
-# I'm Lily
+# I'm Lili
 ## Areas I've explored
 
-### Teaching
-Learning to teach enables me to share my knowledge, and help me consolidate my understanding of code. If you would like to learn JavaScript, feel free to check out [Your First RPG](https://yourfirstrpg.com), a course I'm currently working on.
-
-### Software Development 
-I'm really passionate about expanding my capabilities as a programmer, and Javascript has been a great tool for that. I am constantly developing open source software in hopes that it can both accelerate the development process for myself and others.
-
 ### Game Design
- It's hard to not hum along to the old zelda soundtracks. I feel like gaming has become so industrialized we forget to treat it as an art form. I enjoyed reading *"Power-Up: How Japanese Video Games Gave the World an Extra Life"* and learning about how Japanese people revolutionized gaming. 
- 
+I have recently developed [my own game engine](https://github.com/L1lith/Lilis-Game-Engine) which adapts cutting edge web development and Functional Programming approaches to the realm of game development. I am using it to build my own top-down game right now.
+
+It's hard to not hum along to the old zelda soundtracks. I feel like gaming has become so industrialized we forget to treat it as an art form. I enjoyed reading *"Power-Up: How Japanese Video Games Gave the World an Extra Life"* and learning about how Japanese people revolutionized gaming. 
+
 I also redid the website for the amazing open source game engine [melonJS](https://melonjs.org)
 
 ### Web Development
 I love seeing the many layers of modern software design, and exploring the cutting edge. I've worked with a lot of tools, but [Solid.js](https://www.solidjs.com/) and [Astro](https://astro.build/) to me are simply unmatched for convienent development and lightning fast web pages.
 
+### Teaching
+Learning to teach enables me to share my knowledge, and help me consolidate my understanding of code. If you would like to learn JavaScript, feel free to check out [Your First RPG](https://github.com/L1lith/Your-First-RPG), an open source course I build in the past. Note that I am no longer paying for the hosting so you'll have to build it yourself.
+
+### Software Development 
+I'm really passionate about expanding my capabilities as a programmer, and Javascript has been a great tool for that. I am constantly developing open source software in hopes that it can both accelerate the development process for myself and others.
+
 ### Security
-I enjoy making things safe, so I study cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda.
+I enjoy making things safe, so I studied cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda. I built a course and taught it at the Blackhat conference.
 
 ### Artificial Intelligence
-I have done extensive work with multiple forms of Artificial Intelligence. I have become very good at using the following AIs:
-- Various LLMs (I talk with them to help me solve problems, I now use my Lili's LLM Chat program in order to use more eco-friendly AIs)
-- Midjourney (in tandem with procedural generation approaches, however I am not using it at the moment for environmental reasons)
-
-I would be open to prompt engineering roles, but only if I felt passionately about the project.
+I am very good at prompting LLMs for coding purposes. I talk with them to help me solve problems, but only when needed not as my primary means of coding. I use my [Lili's LLM Chat program](https://github.com/L1lith/Lilis-LLM-Chat) in order to use more eco-friendly AIs through online APIs hosting open source models.
 
 ## Support
-If you'd like to support me financially consider [subscribing to my Patreon](https://www.patreon.com/Purp1)
 <details>
   <summary>If you'd like to help the earth, click here</summary>
  
