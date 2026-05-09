@@ -1,4 +1,6 @@
 # I'm Lili
+I've been programming since around 2009 or 2010. I'm also a visual artist who has exhibitioned multiple times at the [Urban Arts Gallery](https://www.urbanartsgallery.org/), and I'm an activist who is against colonial governments and for giving the land back to it's indigenous care takers.
+
 ## 🗺️ Areas I've explored
 
 ### 🎮 Game Design
