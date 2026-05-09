@@ -8,11 +8,13 @@ It's hard to not hum along to the old zelda soundtracks. I feel like gaming has 
 
 I also redid the website for the amazing open source game engine [melonJS](https://melonjs.org)
 
-### 🌐 Web Development
-I love seeing the many layers of modern software design, and exploring the cutting edge. I've worked with a lot of tools, but [Solid.js](https://www.solidjs.com/) and [Astro](https://astro.build/) to me are simply unmatched for convienent development and lightning fast web pages.
-
 ### 📚 NPM Library Publishing
 I'm really passionate about expanding my capabilities as a programmer, and Javascript has been a great tool for that. I am constantly developing open source software in hopes that it can both accelerate the development process for myself and others. I am actively creating and updating my most important libraries, most of which are pinned below. I'm proud that [Sandhands](https://www.npmjs.com/package/sandhands) regularly gets hundreds of downloads during peak weeks.
+
+<details>
+  <summary>Other Areas</summary>
+### 🌐 Web Development
+I love seeing the many layers of modern software design, and exploring the cutting edge. I've worked with a lot of tools, but [Solid.js](https://www.solidjs.com/) and [Astro](https://astro.build/) to me are simply unmatched for convienent development and lightning fast web pages.
 
 ### 👩‍🏫 Teaching
 Learning to teach enables me to share my knowledge, and help me consolidate my understanding of code. If you would like to learn JavaScript, feel free to check out [Your First RPG](https://github.com/L1lith/Your-First-RPG), an open source course I build in the past. Note that I am no longer paying for the hosting so you'll have to build it yourself.
@@ -22,6 +24,7 @@ I enjoy making things safe, so I studied cyber security to better understand the
 
 ### 🤖 Artificial Intelligence
 I am very good at prompting LLMs for coding purposes. I talk with them to help me solve problems, but only when needed not as my primary means of coding. I use my [Lili's LLM Chat program](https://github.com/L1lith/Lilis-LLM-Chat) in order to use more eco-friendly AIs through online APIs hosting open source models.
+</details>
 
 ## 💗 Support
 <details>
