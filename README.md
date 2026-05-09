@@ -17,13 +17,13 @@ I'm really passionate about expanding my capabilities as a programmer, and Javas
 ### 👩‍🏫 Teaching
 Learning to teach enables me to share my knowledge, and help me consolidate my understanding of code. If you would like to learn JavaScript, feel free to check out [Your First RPG](https://github.com/L1lith/Your-First-RPG), an open source course I build in the past. Note that I am no longer paying for the hosting so you'll have to build it yourself.
 
-### Security
+### 🛡️ Security
 I enjoy making things safe, so I studied cyber security to better understand the security aspects of back-end & front-end development, as well as potential security risks in cloud-based environments like AWS and Lambda. I built a course and taught it at the Blackhat conference.
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 I am very good at prompting LLMs for coding purposes. I talk with them to help me solve problems, but only when needed not as my primary means of coding. I use my [Lili's LLM Chat program](https://github.com/L1lith/Lilis-LLM-Chat) in order to use more eco-friendly AIs through online APIs hosting open source models.
 
-## Support
+## 💗 Support
 <details>
   <summary>If you'd like to help the earth, click here</summary>
  
