@@ -1,7 +1,7 @@
 # I'm Lili
 I've been programming since around 2009 or 2010, when I taught myself to code as a child. I'm also a visual artist who has exhibitioned multiple times at the [Urban Arts Gallery](https://www.urbanartsgallery.org/), and I'm an activist who is against colonial governments and for giving the land back to it's indigenous caretakers. To learn more about me [visit my website](https://webslc.com) or [view my art portfolio](https://webslc.com/art).
 
-## 🗺️ Areas I've explored
+## 🗺️ Areas of Emphasis
 
 ### 🎮 Game Design
 I have recently developed [my own game engine](https://github.com/L1lith/Lilis-Game-Engine) which adapts cutting edge web development and Functional Programming approaches to the realm of game development. I am using it to build my own top-down game right now.
@@ -14,7 +14,7 @@ I also redid the website for the amazing open source game engine [melonJS](https
 I'm really passionate about expanding my capabilities as a programmer, and Javascript has been a great tool for that. I am constantly developing open source software in hopes that it can both accelerate the development process for myself and others. I am actively creating and updating my most important libraries, most of which are pinned below. I'm proud that [Sandhands](https://www.npmjs.com/package/sandhands) regularly gets hundreds of downloads during peak weeks.
 
 <details>
-  <summary>Other Areas</summary>
+  <summary>Other Areas I've practiced</summary>
 
 ### 🌐 Web Development
 I love seeing the many layers of modern software design, and exploring the cutting edge. I've worked with a lot of tools, but [Solid.js](https://www.solidjs.com/) and [Astro](https://astro.build/) to me are simply unmatched for convienent development and lightning fast web pages.
